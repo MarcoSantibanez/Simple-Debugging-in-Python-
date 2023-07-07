@@ -49,7 +49,7 @@ placed in quotations to be stringed by adding them the code ran correctly free f
 
 Upon review I did notice that there was a missing parantheses at the end of the .upper() string function. 
 
-~The *.upper()* method returns a string where all characters are in upper case.
+##The *.upper()* method returns a string where all characters are in upper case.
 
 ![image](https://github.com/MarcoSantibanez/Simple-Debugging-in-Python-/assets/138132151/f2e99f02-2f1b-4bc5-bb00-2dd605d33561)
 
